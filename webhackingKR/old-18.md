@@ -15,6 +15,4 @@
             - ex)no=111/**/or/**/no=2
         * 괄호: ()
             - ex)no=(111)or(no=2)
-        * 더하기: +
-            - ex)no=111+or+no=2
     * answer query: 12%09or%09no=2
